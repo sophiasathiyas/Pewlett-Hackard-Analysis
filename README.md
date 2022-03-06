@@ -15,3 +15,6 @@ As seen in the unique_titiles table, there are a substantial amount of employees
 *  1,761 Assistant Engineers
 *  2 Managers
 
+Further narrowing down of eligible employees, by filitering for current employment at Pewlett-Hackard and birth date, it was discovered that there are 1549 employees eligible. This can be seen the reitiring_titles.csv. 
+
+Lastly, out of the 1549 employees who met the criterion to retire a organization of titles can be seen in mentorship_eligibility.csv file. 
